@@ -1,0 +1,10 @@
+.card-list {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 1em;
+  }
+  
+  .card-container {
+    background-color: #53b0ad;
+    
+  }

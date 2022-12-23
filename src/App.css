@@ -10,17 +10,4 @@
   color: #38c8c3;
 }
 
-.search-box {
-  margin-bottom: 1em;
-}
 
-.card-list {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  grid-gap: 1em;
-}
-
-.card-container {
-  background-color: #53b0ad;
-  
-}
